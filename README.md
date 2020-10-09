@@ -1,4 +1,4 @@
-### 👋 Hi I am Fan Yang. 
+### 👋 Hi, I am Fan Yang. 
 
 - 🔭 I’m currently working on multiple object tracking (MOT) and action recognition.
 - ✍️ I am writing codes and papers to introduce some of my ideas on these topics.
