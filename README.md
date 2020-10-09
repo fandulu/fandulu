@@ -1,7 +1,7 @@
 ### 👋 Hi I am Fan Yang. 
 
 - 🔭 I’m currently working on multiple object tracking (MOT) and action recognition.
-- ✍️ I am writing related codes and papers to introduce some of my ideas on these topics.
+- ✍️ I am writing codes and papers to introduce some of my ideas on these topics.
 
 <!--
 **fandulu/fandulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
