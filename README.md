@@ -1,5 +1,9 @@
 ### 👋 Hi, I am Fan Yang. 
 
+<a href="#">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=fandulu&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
+</a>
+
 - 🔭 I’m currently working on multiple object tracking (MOT) and action recognition.
 - ✍️ I am writing codes and papers to introduce some of my ideas on these topics.
 
